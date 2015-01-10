@@ -1,0 +1,6 @@
+c:\work\tfsonline\RESPOSABLE\FluentlyExport\FluentlyExport\bin\Debug\FluentlyExport.dll
+c:\work\tfsonline\RESPOSABLE\FluentlyExport\FluentlyExport\bin\Debug\FluentlyExport.pdb
+c:\work\tfsonline\RESPOSABLE\FluentlyExport\FluentlyExport\bin\Debug\VirtualPath.dll
+c:\work\tfsonline\RESPOSABLE\FluentlyExport\FluentlyExport\obj\Debug\FluentlyExport.csprojResolveAssemblyReference.cache
+c:\work\tfsonline\RESPOSABLE\FluentlyExport\FluentlyExport\obj\Debug\FluentlyExport.dll
+c:\work\tfsonline\RESPOSABLE\FluentlyExport\FluentlyExport\obj\Debug\FluentlyExport.pdb
